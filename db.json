@@ -1,0 +1,34 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "userId": 1,
+        "title": "hello",
+        "body": "a body"
+      }, {
+        "id": 2,
+        "userId": 1,
+        "title": "good morning",
+        "body": "A different body"
+      }, {
+        "id": 3,
+        "userId": 2,
+        "title": "Hello world",
+        "body": "Body number 3"
+      }, {
+        "id": 4,
+        "userId": 2,
+        "title": "Good evening",
+        "body": "Body number 4"
+      }
+    ],
+    "users": [
+    {
+        "userId": 1,
+        "name": "Nils"
+    }, {
+        "userId": 2,
+        "name": "Espen"
+    }
+    ]
+  }
