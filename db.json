@@ -23,12 +23,12 @@
       }
     ],
     "users": [
-    {
-        "userId": 1,
+      {
+        "id": 1,
         "name": "Nils"
-    }, {
-        "userId": 2,
+      }, {
+        "id": 2,
         "name": "Espen"
-    }
+      }
     ]
   }
