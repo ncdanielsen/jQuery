@@ -25,10 +25,14 @@
     "users": [
       {
         "id": 1,
-        "name": "Nils"
+        "name": "Nils",
+        "gender": "male",
+        "info": "svjiodfvniodnonosdjniosjiosdfvjiosdfvjiofvnof"
       }, {
         "id": 2,
-        "name": "Espen"
+        "name": "Espen",
+        "gender": "male",
+        "info": "svjiodfvniodnonosdjniosjiosdfvjiosdfvjiofvnof"
       }
     ]
   }
